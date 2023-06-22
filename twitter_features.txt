@@ -1,0 +1,12 @@
+twitter : 
+
+poster
+commenter les posts
+aimer les posts
+regardeer qui a aimé
+proportion de filles/garçon
+regarder les followers
+follow
+discuter en dm
+vérifier l'unicité des compte lors de la création
+hashtag
